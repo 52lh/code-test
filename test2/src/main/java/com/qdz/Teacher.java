@@ -1,3 +1,5 @@
+package com.qdz;
+
 public class Teacher {
 
     private String name;
