@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class Apple {
+
+    private String color;
+    private String siaz;
 }
