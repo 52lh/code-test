@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d6b9b4-dd3c-47c0-8abf-6fccaa3db726" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test2/src/main/java/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/main/java/Teacher.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/test1/target/" />
     <ignored path="$PROJECT_DIR$/test2/target/" />
@@ -29,20 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test2/src/main/java/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Apple.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test2/src/main/java/Apple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -65,7 +56,6 @@
         <option value="$PROJECT_DIR$/test1/src/main/java/Person.java" />
         <option value="$PROJECT_DIR$/test2/src/main/java/Student.java" />
         <option value="$PROJECT_DIR$/test2/src/main/java/Teacher.java" />
-        <option value="$PROJECT_DIR$/test2/src/main/java/Apple.java" />
       </list>
     </option>
   </component>
@@ -225,7 +215,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1895000" />
+    <option name="totallyTimeSpent" value="1756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -305,13 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2/src/main/java/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
